@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/githubPro/fixNavigation/app/demo/src/main/res/layout/activity_demo.xml" value="0.2296875" />
+        <entry key="..\:/githubPro/fixNavigation/app/src/main/res/layout/activity_main.xml" value="0.1440677966101695" />
+        <entry key="..\:/githubPro/fixNavigation/app/src/main/res/layout/fragment_dashboard.xml" value="0.13854166666666667" />
+        <entry key="..\:/githubPro/fixNavigation/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/githubPro/fixNavigation/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17054263565891473" />
+        <entry key="..\:/githubPro/fixNavigation/demo/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/githubPro/fixNavigation/demo/src/main/res/layout/activity_demo.xml" value="0.1" />
+        <entry key="..\:/gitpro/fixNavigation/app/src/main/res/layout/activity_main.xml" value="0.1111111111111111" />
+        <entry key="..\:/gitpro/fixNavigation/app/src/main/res/layout/fragment_notifications.xml" value="0.1947463768115942" />
+        <entry key="..\:/gitpro/fixNavigation/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36944444444444446" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+apply plugin: 'java-library'
+apply plugin: 'maven-publish'
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+sourceCompatibility = "11"
+targetCompatibility = "11"
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                // The following applies a component to this publication
+                // which results in publishing an app bundle.
+                from components.java
+                groupId = 'com.github.AGouLiu'
+                artifactId = 'nav_annotation'
+                //version = fixVersion
+                
+            }
+        }
+    }
+}

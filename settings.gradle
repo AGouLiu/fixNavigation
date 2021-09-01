@@ -1,0 +1,6 @@
+
+rootProject.name = "FixNavigation"
+include ':app'
+include ':nav_annotation'
+include ':nav_compiler'
+include ':nav_api'
