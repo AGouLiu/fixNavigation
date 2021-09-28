@@ -10,7 +10,7 @@
 * 添加如下依赖，末尾的「latestVersion」 [![Download](https://jitpack.io/v/AGouLiu/fixNavigation.svg)](https://jitpack.io/#AGouLiu/fixNavigation)里的版本名称，请自行替换。
 ```groovy
 dependencies {
-    implementation 'com.github.AGouLiu.fixNavigation:nav_api::latestVersion'
+    implementation 'com.github.AGouLiu.fixNavigation:nav_api:latestVersion'
     annotationProcessor 'com.github.AGouLiu.fixNavigation:nav_compiler:latestVersion'
     //kapt
     kapt 'com.github.AGouLiu.fixNavigation:nav_compiler:latestVersion'
