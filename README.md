@@ -23,7 +23,7 @@ dependencies {
 
 ![image](https://user-images.githubusercontent.com/16461557/134899259-b6804f09-1379-4764-a651-4c2be16ebd8a.png)
 
-* asStarter 代表是否是第一个进入的home页面 每个navigation 只有一个值是true
+* asStarter 代表是否是第一个进入的 `home` 页面 每个navigation 只有一个值是true
 
 * 编译后产物 
 
